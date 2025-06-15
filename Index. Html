@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>UPSC Preparation Hub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #ff9900 3px solid;
+        }
+
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+            font-size: 24px;
+        }
+
+        nav {
+            margin-top: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
+            background: #ff9900;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        nav a:hover {
+            background: #e68a00;
+        }
+
+        section {
+            background: #fff;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 5px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #333;
+            color: #fff;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>UPSC Preparation Hub</h1>
+        </div>
+    </header>
+
+    <nav>
+        <a href="history.html">History</a>
+        <a href="geography.html">Geography</a>
+        <a href="polity.html">Polity</a>
+        <a href="economy.html">Economy</a>
+        <a href="science.html">Science</a>
+    </nav>
+
+    <div class="container">
+        <section>
+            <h2>Welcome to UPSC Preparation Hub</h2>
+            <p>This platform is designed to help aspirants prepare for the UPSC exam effectively with well-organized notes and resources.</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 UPSC Hub. All rights reserved.</p>
+    </footer>
+</body>
+</html>
